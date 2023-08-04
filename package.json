@@ -1,0 +1,50 @@
+{
+  "_from": "@nestjs-nodo/event-bus@3.33.5",
+  "_id": "@nestjs-nodo/event-bus@3.33.5",
+  "_inBundle": false,
+  "_integrity": "sha512-8m5DIW/d+lfMuJ2m9e5Mx2GzMz5AO2KaqTt4z0alutp3kWoe9h4ax9j5S88kcKRWYo7i/HSoxtLJ4epKKD6mYQ==",
+  "_location": "/@nestjs-nodo/event-bus",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@nestjs-nodo/event-bus@3.33.5",
+    "name": "@nestjs-nodo/event-bus",
+    "escapedName": "@nestjs-nodo%2fevent-bus",
+    "scope": "@nestjs-nodo",
+    "rawSpec": "3.33.5",
+    "saveSpec": null,
+    "fetchSpec": "3.33.5"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://npm.nodo.cc/@nestjs-nodo%2fevent-bus/-/event-bus-3.33.5.tgz",
+  "_shasum": "9630664aea9d24f623c023aea466b3fc90862f09",
+  "_spec": "@nestjs-nodo/event-bus@3.33.5",
+  "_where": "/home/rishabh/test",
+  "author": {
+    "name": "nodo.cc"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "### changelog",
+  "engines": {
+    "node": "v10.16.2"
+  },
+  "files": [
+    "lib",
+    "*.md"
+  ],
+  "gitHead": "96620f8538ec47cf68340b00f04880237ae8adfb",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "name": "@nestjs-nodo/event-bus",
+  "repository": {
+    "type": "git",
+    "url": "code.nodo.cc:nestjs-nodo/core.git"
+  },
+  "types": "lib/index.d.ts",
+  "version": "3.33.5"
+}
